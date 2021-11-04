@@ -1,4 +1,4 @@
-FROM node:13.6.0
+FROM node:13.11.0
 
 # Install node dependencies
 WORKDIR /frontend/
